@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "DomainName",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "CreateHostedZone",
+    "ParameterValue": "false"
+  }
+]
